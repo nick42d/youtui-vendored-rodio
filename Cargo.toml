@@ -1,10 +1,10 @@
 [package]
 name = "youtui-vendored-rodio"
-version = "0.19.0-youtui-vendored.1"
+version = "0.19.0-youtui-vendored.2"
 license = "MIT OR Apache-2.0"
 description = "VENDORED LIBRARY FOR YOUTUI - DO NOT USE"
 keywords = ["audio", "playback", "gamedev"]
-repository = "https://github.com/RustAudio/rodio"
+repository = "https://github.com/nick42d/rodio"
 documentation = "https://docs.rs/rodio"
 exclude = ["assets/**", "tests/**"]
 edition = "2021"
